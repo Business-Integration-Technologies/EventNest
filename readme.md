@@ -117,11 +117,6 @@ EventNest is a comprehensive event ticket booking platform designed to streamlin
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-- GitHub: [Hashim158](https://github.com/Hashim158)
-- Email: hashim.siddque2002@gmail.com
-
 ## Acknowledgements
 
 - [React.js](https://reactjs.org/)
